@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
- *
- * retun: Always 0 (Success)
+ * main - Print a string with printf
+ *Description: This program prints using print function
+ * Return 0
  */
 int main(void)
 {
