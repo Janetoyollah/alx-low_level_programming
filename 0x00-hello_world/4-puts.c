@@ -7,6 +7,7 @@
  */
 int main(void)
 {
+
 	Char *s = "\"Programming is like building a multilingual puzzle";
 Puts (s);
 
