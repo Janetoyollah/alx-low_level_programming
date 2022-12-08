@@ -1,13 +1,11 @@
 #include <stdio.h>
-
 /**
- * main - Print a string with printf
- * Description: This program prints using print function
- * Return:0
- */
+* main - Entry point
+*My hello, prinf task
+*Return: return 1 after program execution
+*/
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,\n");
-	return (0);
-
+printf("with proper grammar, but the outcome is a piece of art,\n");       
+return (0);
 }	
