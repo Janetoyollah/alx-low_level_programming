@@ -2,8 +2,8 @@
 
 /**
  * main - Print a string with printf
- *Description: This program prints using print function
- * Return 0
+ * Description: This program prints using print function
+ * Return:0
  */
 int main(void)
 {
