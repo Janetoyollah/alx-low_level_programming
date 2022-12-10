@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - Entry point
- *My hello, prinf task
+ *main - Entry point
+ *Description: my hello, prinf task
  *Return: return 1 after program execution
  */
 int main(void)
